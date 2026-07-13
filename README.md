@@ -17,7 +17,7 @@ Run the Lumo Studio Setup installer and follow the instructions.
 
 ## Version
 
-1.0.0
+1.1
 
 ## License
 
